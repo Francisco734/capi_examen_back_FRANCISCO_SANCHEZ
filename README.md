@@ -1,3 +1,8 @@
+## Requerimientos
+
+- php 8
+- composer
+
 ## Instrucciones
 
 Para el despliegue del proyecto se deben seguir las sigueintes instrucciones.
